@@ -1,2 +1,3 @@
+*.bk
 target
 src/path_to_enlightenment.rs
